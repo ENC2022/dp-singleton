@@ -25,6 +25,15 @@ Mediante la implementación del patrón de diseño Singleton crearemos una aplic
 
 ### Ejecucion
 
+Preferir que la IDE detecte el proyecto Java y ejecutar desde ahí.  Usar estos comandos solo en caso de que no:
+
 ```
-gradle run
+cd app/build/classes/java/main
+java oscarblancarte.ipd.singleton.SingletonMain
+
+```
+### Home (Codespaces)
+```
+cd /workspaces/dp-singleton
+
 ```
